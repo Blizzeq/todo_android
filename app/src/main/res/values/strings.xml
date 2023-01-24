@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">todo</string>
+    <string name="wprowad_dane_aktywno_ci">Wprowadź dane aktywności</string>
+    <string name="wpisz_zadanie">Wpisz zadanie</string>
+    <string name="podaj_date_wykonania_zadania">Podaj date wykonania zadania</string>
+    <string name="zapisz">Zapisz</string>
+    <string name="twoje_zadania">Twoje zadania</string>
+    <string name="x">X</string>
+    <string name="plus">+</string>
+    <string name="aplikacja_todo">Aplikacja ToDo</string>
+    <string name="jakub_krasuski">Jakub Krasuski</string>
+    <string name="aktualizuj_dane">Aktualizuj dane</string>
+    <string name="zaktualizuj_zadanie">Zaktualizuj zadanie</string>
+    <string name="zaktualizuj_date">Zaktualizuj date</string>
+    <string name="zapisz2">Zapisz</string>
+    <string name="usu">Usuń</string>
+    <string name="twoje_zadanie">Twoje zadanie</string>
+    <string name="data">Data</string>
+</resources>
